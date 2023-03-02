@@ -10,7 +10,7 @@ Javascript
 
 - Clonar o repositório:
 
-    - copie o seguinte link: https://github.com/FernandaNascimento26/WebIIandProjSOFTII
+    - copie o seguinte link: https://github.com/FernandaNascimento26/2023IFCESubsequente
 
     - no terminal do seu computador, execute o seguinte comando: 
     
